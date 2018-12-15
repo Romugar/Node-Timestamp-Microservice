@@ -2,7 +2,7 @@
 
 ### Build a Timestamp Microservice
 
-Try it on Glitch: https://groovy-elk.glitch.me/
+View online: https://groovy-elk.glitch.me/
 
 #### User stories :
 
